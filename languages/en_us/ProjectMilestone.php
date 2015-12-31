@@ -9,13 +9,13 @@
  *************************************************************************************/
 $languageStrings = array(
 	'LBL_ADD_RECORD' => 'Add Project Milestone',
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Project Milestone Details',
-	'LBL_RECORDS_LIST' => 'Project Milestones List',
-	'Milestone Date' => 'Milestone Date',
-	'Project Milestone Name' => 'Project Milestone Name',
-	'Project Milestone No' => 'Project Milestone Number',
-	'SINGLE_ProjectMilestone' => 'Project Milestone',
-        'LBL_PROJECTS_LIST' => 'Projects List',
-        'LBL_TASKS_LIST' => 'Tasks List',
-        'LBL_MILESTONES_LIST' => 'Milestones List'
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Chi tiết sự kiện dự án',
+	'LBL_RECORDS_LIST' => 'Danh sách sự kiện dự án',
+	'Milestone Date' => 'Ngày sự kiện',
+	'Project Milestone Name' => 'Tên sự kiện dự án',
+	'Project Milestone No' => 'Số sự kiện dự án',
+	'SINGLE_ProjectMilestone' => 'Sự kiện dự án',
+        'LBL_PROJECTS_LIST' => 'Danh sách dự án',
+        'LBL_TASKS_LIST' => 'Danh sách công việc',
+        'LBL_MILESTONES_LIST' => 'Danh sách sự kiện'
 );

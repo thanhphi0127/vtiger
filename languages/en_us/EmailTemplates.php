@@ -8,17 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Email Template',
-	'SINGLE_EmailTemplates' => 'Email Template',
-	'LBL_EMAIL_TEMPLATES'=> 'Email Templates',
-	'LBL_EMAIL_TEMPLATE' => 'Email Template',
+	'LBL_ADD_RECORD' => 'Thêm bản mẫu Email',
+	'SINGLE_EmailTemplates' => 'Bản mẫu Email',
+	'LBL_EMAIL_TEMPLATES'=> 'Những bản mẫu Email',
+	'LBL_EMAIL_TEMPLATE' => 'Bản mẫu Email',
 	
-	'LBL_TEMPLATE_NAME' => 'Template name',
-	'LBL_DESCRIPTION' => 'Description',
-	'LBL_SUBJECT' => 'Subject',
-	'LBL_GENERAL_FIELDS' => 'General Fields',
-	'LBL_SELECT_FIELD_TYPE' => 'Select Field Type',
+	'LBL_TEMPLATE_NAME' => 'Tên Bản mẫu Email',
+	'LBL_DESCRIPTION' => 'Mô tả',
+	'LBL_SUBJECT' => 'Tiêu đề',
+	'LBL_GENERAL_FIELDS' => 'Những Field chung',
+	'LBL_SELECT_FIELD_TYPE' => 'Chọn loại Field',
 	
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Manage templates for E-Mail module',
+	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Quản lý mẫu E-Mail module',
 	
 );

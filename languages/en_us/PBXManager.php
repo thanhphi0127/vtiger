@@ -10,24 +10,24 @@
 $languageStrings = array(
 	
     //Blocks
-    'LBL_PBXMANAGER_INFORMATION' => 'Call Details',
-    'LBL_CUSTOM_INFORMATION'=>'Custom Information',
+    'LBL_PBXMANAGER_INFORMATION' => 'Chi tiết cuộc gọi',
+    'LBL_CUSTOM_INFORMATION'=>'Tùy chỉnh thông tin',
     
     // list view settings links
-    'LBL_SERVER_CONFIGURATION' => 'Provider Configuration',
+    'LBL_SERVER_CONFIGURATION' => 'Cấu hình nhà cung cấp',
     
     //Detail view header title
-    'LBL_CALL_FROM' => 'Call From',
-    'LBL_CALL_TO' => 'Call To',
+    'LBL_CALL_FROM' => 'Gọi từ',
+    'LBL_CALL_TO' => 'Gọi đến',
     
     //Incoming call pop-up 
-    'LBL_HIDDEN' => '(HIDDEN)', 
+    'LBL_HIDDEN' => '(ẩn)', 
   
     // Fields
-    'Total Duration' => 'Duration (sec)',
-    'Bill Duration'  => 'Bill Duration (sec)',
-    'Recording URL' => 'Recording',
+    'Total Duration' => 'Thời gian (giây)',
+    'Bill Duration'  => 'Hóa đơn trong khoảng thời gian (giây)',
+    'Recording URL' => 'Đang ghi âm',
     
-    'SINGLE_PBXManager' => 'Call Record' ,
+    'SINGLE_PBXManager' => 'Ghi lại cuộc gọi' ,
 
 );

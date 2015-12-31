@@ -30,7 +30,7 @@ $languageStrings = array(
 	'LBL_ANNOUNCEMENT'=> 'Announcement',
 	'LBL_ANNOUNCEMENT_DESC' => 'Change the text that appears in the announcement display on top of each page',
 	'LBL_ANNOUNCEMENT_DESCRIPTION' => 'Manage company wide announcements',
-	'LBL_ANNOUNCEMENTS' => 'Announcements',
+	'LBL_ANNOUNCEMENTS' => 'Thông báo',
 	'LBL_AVAILABLE_WORKLIST_LIST' => 'Available Workflows',
 	'LBL_CALCULATOR_DISPLAY' => 'Calculator Display',
 	'LBL_COMMUNICATION_TEMPLATES' => 'Templates',
@@ -111,14 +111,14 @@ $languageStrings = array(
 	'LBL_MINI_CALENDAR_DISPLAY' => 'Mini Calendar Display',
 	'LBL_MODTRACKER_DESCRIPTION' => 'Select modules for tracking',
 	'LBL_MODULE_ENTITY_NUMBER_CUSTOMIZATION' => 'Module Entity Number customization',
-	'LBL_MODULE_MANAGER' => 'Module Management',
+	'LBL_MODULE_MANAGER' => 'Quản lý Module',
 	'LBL_MODULES' => 'Modules',
 	'LBL_NOTIFICATIONS' => 'Notifications',
 	'LBL_OPTIONS1'=>'',
 	'LBL_OPTIONS2'=>"",
 	'LBL_OTHER_SETTINGS' => 'Other Settings',
 	'LBL_OUTGOING_SERVER_DESC' => 'Configure your Outgoing Mail Server details',
-    'LBL_OUTGOING_SERVER_NOTE' => 'NOTE: Outgoing server should be set to SSL or TLS Protocal and If "From Email" field is set to blank then the User Email address will be picked up.',
+	'LBL_OUTGOING_SERVER_FROM_FIELD'=>'NOTE: If "From Email" field is set to blank then the User Email address will be picked up.',
 	'LBL_OUTGOING_SERVER' => 'Outgoing Server',
 	'LBL_PASSWORD' => 'Password',
 	'LBL_PBXMANAGER' => 'PBXManager',
@@ -195,8 +195,7 @@ $languageStrings = array(
 	'website' => 'Website',
         'vatid'=>'VAT ID', 
         //Exchange Connector
-     'LBL_EXCHANGE_CONNECTOR' => 'Exchange Connector',
-   'LBL_DEFAULT_LAYOUT' => 'Default Layout',   
+        'LBL_EXCHANGE_CONNECTOR' => 'Exchange Connector',
 );
 
 $jsLanguageStrings = array(

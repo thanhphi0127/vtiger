@@ -8,13 +8,13 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Comment' => 'Comment',
-	'Creator' => 'Creator',
-	'LBL_ADDING_COMMENT' => 'Adding Comment',
-	'LBL_MODCOMMENTS_INFORMATION' => 'Comments',
-	'LBL_OTHER_INFORMATION' => 'Other Information',
-	'LBL_RECORDS_LIST' => 'Comments List',
-	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Enter comments here',
-	'Related To Comments' => 'Related To',
-	'SINGLE_ModComments' => 'Comment',
+	'Comment' => 'Bình luận',
+	'Creator' => 'Người tạo',
+	'LBL_ADDING_COMMENT' => 'Đang thêm bình luận',
+	'LBL_MODCOMMENTS_INFORMATION' => 'Những bình luận',
+	'LBL_OTHER_INFORMATION' => 'Thông tin khác',
+	'LBL_RECORDS_LIST' => 'Danh sách những Bình luận',
+	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Nhập bình luận tại đây',
+	'Related To Comments' => 'Có quan hệ với',
+	'SINGLE_ModComments' => 'Bình luận',
 );

@@ -10,22 +10,22 @@
  * *********************************************************************************** */
 $languageStrings = array(
 	// Basic Strings
-	'ServiceContracts' => 'Service Contracts',
-	'Service Contracts' => 'Service Contracts',
-	'SINGLE_ServiceContracts' => 'Service Contract',
-	'LBL_ADD_RECORD' => 'Add Service Contract',
-	'LBL_RECORDS_LIST' => 'Service Contracts List',
+	'ServiceContracts' => 'Hợp đồng dịch vụ',
+	'Service Contracts' => 'Hợp đồng dịch vụ',
+	'SINGLE_ServiceContracts' => 'Hợp đồng dịch vụ',
+	'LBL_ADD_RECORD' => 'Thêm hợp đồng dịch vụ',
+	'LBL_RECORDS_LIST' => 'Danh sách hợp đồng dịch vụ',
 	// Blocks
-	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Service Contract Details',
+	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Chi tiết hợp đồng dịch vụ',
 	
 	//Field Labels
-	'Contract No' => 'Contract Number',
-	'Start Date' => 'Start Date',
-	'End Date' => 'End Date',
-	'Tracking Unit' => 'Tracking Unit',
-	'Total Units' => 'Total Units',
-	'Used Units' => 'Used Units',
-	'Progress'=> 'Progress',
-	'Planned Duration' => 'Planned Duration (in Days)',
-	'Actual Duration' => 'Actual Duration (in Days)',
+	'Contract No' => 'Mã hợp đồng',
+	'Start Date' => 'Ngày bắt đầu',
+	'End Date' => 'Ngày kết thúc',
+	'Tracking Unit' => 'Đơn vị theo dõi',
+	'Total Units' => 'Tổng đơn vị',
+	'Used Units' => 'Đơn vị đã sử dụng',
+	'Progress'=> 'Tiến trình',
+	'Planned Duration' => 'Thời gian dự kiến (bằng ngày)',
+	'Actual Duration' => 'Thời gian thực tế (bằng ngày)',
 );

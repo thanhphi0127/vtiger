@@ -9,36 +9,36 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Services' => 'Services',
-	'SINGLE_Services' => 'Service',
-	'LBL_ADD_RECORD' => 'Add Service',
-	'LBL_RECORDS_LIST' => 'Services List',
+	'Services' => 'Dịch vụ',
+	'SINGLE_Services' => 'Dịch vụ',
+	'LBL_ADD_RECORD' => 'Thêm dịch vụ',
+	'LBL_RECORDS_LIST' => 'Danh sách dịch vụ',
 
 	// Blocks
-	'LBL_SERVICE_INFORMATION' => 'Service Details',
+	'LBL_SERVICE_INFORMATION' => 'Chi tiết dịch vụ',
 	
-	'LBL_MORE_CURRENCIES' => 'more currencies', 
-	'LBL_PRICES' => 'Service Prices',
-	'LBL_PRICE' => 'Price',
-	'LBL_RESET_PRICE' => 'Reset Price',
-	'LBL_RESET' => 'Reset',
+	'LBL_MORE_CURRENCIES' => 'Nhiều loại tiền tệ', 
+	'LBL_PRICES' => 'Giá dịch vụ',
+	'LBL_PRICE' => 'Giá',
+	'LBL_RESET_PRICE' => 'Đặt lại giá',
+	'LBL_RESET' => 'Đặt lại',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Thêm vào giá sách',
 
 	//Field Labels
-	'Service Name'=>'Service Name',
-	'Service Active'=>'Active',
-	'Service Category'=>'Category',
-	'Service No'=>'Service Number',
-	'Owner'=>'Owner',
-	'No of Units'=>'Number of Units',
-	'Commission Rate'=>'Commission Rate',
-	'Price'=>'Price',
-	'Usage Unit'=>'Usage Unit',
-	'Tax Class'=>'Tax Class',
+	'Service Name'=>'Tên dịch vụ',
+	'Service Active'=>'Hoạt động',
+	'Service Category'=>'Thể loại',
+	'Service No'=>'Mã thể loại',
+	'Owner'=>'Chủ sở hữu',
+	'No of Units'=>'Mã đơn vị',
+	'Commission Rate'=>'Tỷ lệ hoa hồng',
+	'Price'=>'Giá',
+	'Usage Unit'=>'Đơn vị sử dụng',
+	'Tax Class'=>'Loại thuế',
 	'Website'=>'Website',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Thêm vào giá sách',
 );

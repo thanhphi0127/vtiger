@@ -8,12 +8,11 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Project Task',
-	'LBL_PROJECTS_LIST' => 'Projects List',
-	'LBL_PROJECT_TASK_INFORMATION' => 'Project Task Details',
-	'LBL_RECORDS_LIST' => 'Project Task List',
-	'LBL_TASKS_LIST' => 'Tasks List',
-	'SINGLE_ProjectTask' => 'Project Task',
-    'LBL_MILESTONES_LIST' => 'Milestones List',
-     'Canceled ' => 'Cancelled',
+	'LBL_ADD_RECORD' => 'Thêm công việc dự án',
+	'LBL_PROJECTS_LIST' => 'Danh sách dự án',
+	'LBL_PROJECT_TASK_INFORMATION' => 'Chi tiết công việc dự án',
+	'LBL_RECORDS_LIST' => 'Danh sách công việc dự án',
+	'LBL_TASKS_LIST' => 'Danh sách công việc',
+	'SINGLE_ProjectTask' => 'Công việc dự án',
+        'LBL_MILESTONES_LIST' => 'Danh sách sự kiện',
 );

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*+**********************************************************************************
  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
  * ("License"); You may not use this file except in compliance with the License
@@ -9,20 +9,20 @@
  ************************************************************************************/
 
 $languageStrings = Array(
-    'LBL_ADD_FEED_SOURCE' => 'Add Feed Source',
-    'LBL_ENTER_FEED_SOURCE' => 'Enter Feed Source',
-    'LBL_FEEDS_LIST_FROM' => 'Feeds List From',
-    'LBL_FEED_SOURCE' => 'Feed Source',
-	'LBL_RSS_FEED_SOURCES' => 'Rss Feed Sources',
-    'LBL_SENDER' => 'Sender',
-    'LBL_SET_AS_DEFAULT' => 'Set As Default',
-    'SINGLE_Rss' => 'Rss Feed',
+    'LBL_ADD_FEED_SOURCE' => 'Thêm nguồn cấp',
+    'LBL_ENTER_FEED_SOURCE' => 'Chọn nguồn cấp',
+    'LBL_FEEDS_LIST_FROM' => 'Dach sách cấp từ',
+    'LBL_FEED_SOURCE' => 'Nguốn cấp',
+	'LBL_RSS_FEED_SOURCES' => 'Nguồn cấp RSS',
+    'LBL_SENDER' => 'Người gửi',
+    'LBL_SET_AS_DEFAULT' => 'Đặt làm mặc định',
+    'SINGLE_Rss' => 'Cấp RSS',
 );
 
 $jsLanguageStrings = array(
-    'JS_INVALID_RSS_URL' => 'Invalid Rss Url',
-    'JS_RSS_MADE_AS_DEFAULT' => 'Rss Made as Default',
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss Successfully saved',
+    'JS_INVALID_RSS_URL' => 'Url RSS không hợp lệ',
+    'JS_RSS_MADE_AS_DEFAULT' => 'Đặt RSS làm mặc định',
+	'JS_RSS_SUCCESSFULLY_SAVED' => 'Lưu RSS thành công',
 
 );
 

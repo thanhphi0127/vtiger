@@ -10,8 +10,8 @@
   ********************************************************************************/
 
 $languageStrings = array(
-	'LBL_CHANGE_PASSWORD_FAILURE' => 'Failed to change password',
-	'LBL_DATABASE_QUERY_ERROR' => 'Database error while performing requested operation',
-	'LBL_INVALID_OLD_PASSWORD' => 'Invalid value given for old password.',
-	'LBL_NEW_PASSWORD_MISMATCH' => "New Password and confirm password don't match",
+	'LBL_CHANGE_PASSWORD_FAILURE' => 'Thay đổi mật khẩu thất bại',
+	'LBL_DATABASE_QUERY_ERROR' => 'Cơ sở dữ liệu bị lỗi khi thực hiện yêu cầu của hệ điều hành',
+	'LBL_INVALID_OLD_PASSWORD' => 'Giá trị không hợp lệ dành cho mật khẩu cũ.',
+	'LBL_NEW_PASSWORD_MISMATCH' => "Mật khẩu mới và xác nhận mật khẩu không khớp",
 );
