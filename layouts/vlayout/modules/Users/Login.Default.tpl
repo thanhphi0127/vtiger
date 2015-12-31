@@ -13,7 +13,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Vtiger login page</title>
+		<title>Trang đăng nhập</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- for Login page we are added -->
 		<link href="libraries/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -40,17 +40,16 @@
 		<div class="container-fluid login-container">
 			<div class="row-fluid">
 				<div class="span3">
-					<div class="logo"><img src="layouts/vlayout/skins/images/logo.png">
+					<div class="logo"><img src="layouts/vlayout/skins/images/vic.png">
 					<br />
 					<a target="_blank" href="http://{$COMPANY_DETAILSCOMPANY_DETAILS.website}">{$COMPANY_DETAILS.name}</a>
 					</div>
 				</div>
 				<div class="span9">
 					<div class="helpLinks">
-						<a href="https://www.vtiger.com">Vtiger Website</a> | 
-						<a href="https://wiki.vtiger.com/vtiger6/">Vtiger Wiki</a> | 
-						<a href="https://www.vtiger.com/crm/videos/">Vtiger videos </a> | 
-						<a href="https://discussions.vtiger.com/">Vtiger Forums</a> 
+						<a href="https://www.vtiger.com">Giới thiệu công ty</a> | 
+						<a href="https://wiki.vtiger.com/vtiger6/">Diễn đàn</a> | 
+						<a href="https://www.vtiger.com/crm/videos/">Liên hệ</a>
 					</div>
 				</div>
 			</div>
@@ -59,48 +58,10 @@
 					<div class="content-wrapper">
 						<div class="container-fluid">
 							<div class="row-fluid">
-								<div class="span6">
-									<div class="carousal-container">
-										<div><h2> Get more out of Vtiger </h2></div>
-										<ul class="bxslider">
-											<li>
-												<div id="slide01" class="slide">
-													<img class="pull-left" src="{vimage_path('android_text.png')}">
-													<img class="pull-right" src="{vimage_path('android.png')}"/>
-												</div>
-											</li>
-											<li>
-												<div id="slide02" class="slide">
-													<img class="pull-left" src="{vimage_path('iphone_text.png')}"/>
-													<img class="pull-right" src="{vimage_path('iphone.png')}"/>
-												</div>
-											</li>
-											<li>
-												<div id="slide03" class="slide">
-													<img class="pull-left" src="{vimage_path('ipad_text.png')}"/>
-													<img class="pull-right" src="{vimage_path('ipad.png')}"/>
-												</div>
-											</li>
-											<li>
-												<div id="slide04" class="slide">
-													<img class="pull-left" src="{vimage_path('exchange_conn_text.png')}"/>
-													<img class="pull-right" src="{vimage_path('exchange_conn.png')}"/>
-												</div>
-											</li>
-											<li>
-												<div id="slide05" class="slide">
-													<img class="pull-left" src="{vimage_path('outlook_text.png')}"/>
-													<img class="pull-right" src="{vimage_path('outlook.png')}"/>
-												</div>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="span6">
 									<div class="login-area">
 										<div class="login-box" id="loginDiv">
 											<div class="">
-												<h3 class="login-header">Login to Vtiger CRM</h3>
+												<h3 class="login-header">Đăng nhập hệ thống</h3>
 		</div>
 											<form class="form-horizontal login-form" style="margin:0;" action="index.php?module=Users&action=Login" method="POST">
 			{if isset($smarty.request.error)}
@@ -124,29 +85,29 @@
 													</div>
 												{/if}
 												<div class="control-group">
-													<label class="control-label" for="username"><b>User name</b></label>
+													<label class="control-label" for="username"><b>Tên đăng nhập</b></label>
 													<div class="controls">
 														<input type="text" id="username" name="username" placeholder="Username">
 													</div>
 												</div>
 
 			<div class="control-group">
-													<label class="control-label" for="password"><b>Password</b></label>
+													<label class="control-label" for="password"><b>Mật khẩu</b></label>
 				<div class="controls">
 														<input type="password" id="password" name="password" placeholder="Password">
 													</div>
 												</div>
 												<div class="control-group signin-button">
 													<div class="controls" id="forgotPassword">
-														<button type="submit" class="btn btn-primary sbutton">Sign in</button>
-														&nbsp;&nbsp;&nbsp;<a>Forgot Password ?</a>
+														<button type="submit" class="btn btn-primary sbutton">Tiếp tục</button>
+														&nbsp;&nbsp;&nbsp;<a>Quên mật khẩu?</a>
 													</div>
 												</div>
 												{* Retain this tracker to help us get usage details *}
 												<img src='//stats.vtiger.com/stats.php?uid={$APPUNIQUEKEY}&v={$CURRENT_VERSION}&type=U' alt='' title='' border=0 width='1px' height='1px'>
 											</form>
 											<div class="login-subscript">
-												<small> Powered by vtiger CRM {$CURRENT_VERSION}</small>
+												<small> Phiên bản hiện tại {$CURRENT_VERSION}</small>
 											</div>
 				</div>
 										
