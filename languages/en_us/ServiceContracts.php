@@ -14,7 +14,7 @@ $languageStrings = array(
 	'Service Contracts' => 'Hợp đồng dịch vụ',
 	'SINGLE_ServiceContracts' => 'Hợp đồng dịch vụ',
 	'LBL_ADD_RECORD' => 'Thêm hợp đồng dịch vụ',
-	'LBL_RECORDS_LIST' => 'Danh sách hợp đồng dịch vụ',
+	'LBL_RECORDS_LIST' => 'Danh sách hợp đồng',
 	// Blocks
 	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Chi tiết hợp đồng dịch vụ',
 	
