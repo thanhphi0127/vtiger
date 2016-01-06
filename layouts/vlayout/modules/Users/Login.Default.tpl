@@ -47,9 +47,9 @@
 				</div>
 				<div class="span9">
 					<div class="helpLinks">
-						<a href="https://www.vtiger.com">Giới thiệu công ty</a> | 
-						<a href="https://wiki.vtiger.com/vtiger6/">Diễn đàn</a> | 
-						<a href="https://www.vtiger.com/crm/videos/">Liên hệ</a>
+						<a href="#">Giới thiệu công ty</a> | 
+						<a href="#">Diễn đàn</a> | 
+						<a href="#">Liên hệ</a>
 					</div>
 				</div>
 			</div>

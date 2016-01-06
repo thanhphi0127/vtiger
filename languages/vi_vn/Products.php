@@ -1,0 +1,76 @@
+<?php
+/*+***********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ *************************************************************************************/
+$languageStrings = array(
+	'300-Sales-Software'=>'300-Bán hàng-Phần mềm',
+	'301-Sales-Hardware'=>'301-Bán hàng-Phần cứng',
+	'302-Rental-Income'=>'302-Tiền thuê-Lợi tức',
+	'303-Interest-Income'=>'303-Hấp dẫn-Lợi tức',
+	'304-Sales-Software-Support'=>'304-Bán hàng-Phần mềm-Hỗ trợ',
+	'305-Sales Other'=>'305-Bán loại khác',
+	'306-Internet Sales'=>'306-Bán qua mạng',
+	'307-Service-Hardware Labor'=>'307-Dịch vụ-Nhãn phần cứng',
+	'308-Sales-Books'=>'308-Bán hàng-Sách',
+	'Box'=>'Hộp',
+	'Carton'=>'Carton',
+	'Caton'=>'Caton',
+	'Commission Rate'=>'Commission Rate',
+	'CRM Applications'=>'Ứng dụng CRM',
+	'Dozen'=>'Một tá',
+	'Each'=>'Mỗi',
+	'GL Account'=>'Tài khoản GL',
+	'Handler'=>'Người dùng',
+	'Hardware'=>'Phần cứng',
+	'Hours'=>'Số giờ',
+	'Impressions'=>'Những ấn tượng',
+	'LBL_ADD_RECORD' => 'Thêm sản phẩm',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Thêm vào giá sách', //Duplicated key-value pairs
+	'Lb'=>'Lb',
+	'LBL_IMAGE_INFORMATION' => 'Thông tin hình ảnh sản phẩm',
+	'LBL_MORE_CURRENCIES' => 'Tiền tệ khác', 
+	'LBL_PRICE' => 'Giá',
+	'LBL_PRICES' => 'Giá trị sản phẩm',
+	'LBL_PRODUCT_INFORMATION' => 'Chi tiết sản phẩm',
+    'LBL_PRODUCTSMOD_DISABLED' => 'Bật module sản phẩm',
+	'LBL_RECORDS_LIST' => 'Danh sách sản phẩm',
+	'LBL_RESET_PRICE' => 'Thiết lập lại giá',
+	'LBL_RESET' => 'Reset',
+	'LBL_STOCK_INFORMATION' => 'Thông tin chứng khoán',
+	'Manufacturer' => 'Nhà sản xuất',
+	'Mfr PartNo' => 'Mfr PartNo',
+	'M'=>'M',
+	'--None--'=>'--None--',
+	'Pack'=>'Kiện hàng',
+	'Pages'=>'Các trang',
+	'Part Number' => 'Mã phụ tùng',
+	'Pieces'=>'Số mảnh',
+	'Product Active' => 'Kích hoạt sản phẩm',
+	'Product Category' => 'Loại sản phẩm',
+	'Product Image'=>'Hình sản phẩm',
+	'Product No' => 'Số sản phẩm',
+	'Product Sheet'=>'Bảng sản phẩm',
+	'Products' => 'Sản phẩm',
+	'Qty In Demand'=>'Nhu cầu số lượng',
+	'Qty In Stock'=>'Số lượng cổ phiếu',
+	'Qty/Unit'=>'Số lượng/Đơn vị',
+	'Reams'=>'Ram giấy',
+	'Reorder Level'=>'Sắp xếp cấp độ', //Duplicated key-value pairs
+	'Serial No'=>'Serial No',
+	'Sheet'=>'Bảng',
+	'SINGLE_Products' => 'Sản phẩm',
+	'Software'=>'Phần mềm',
+	'Spiral Binder'=>'Spiral Binder',
+	'Sq Ft'=>'Sq Ft',
+	'Tax Class'=>'Lớp thuế suất',
+	'Unit Price'=>'Giá đơn vị',
+	'Usage Unit'=>'Đơn vị sử dụng',
+	'Vendor PartNo' => 'Vendor PartNo', //Duplicated key-value pairs
+	'Website' => 'Trang web',
+	'Product Name' => 'Tên sản phẩm',
+);

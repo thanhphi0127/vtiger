@@ -81,12 +81,12 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL = 'http://localhost/vtigercrm/';
+$site_URL = 'http://localhost/vtiger/';
 
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/var/www/html/vtigercrm/';
+$root_directory = '/var/www/html/vtiger/';
 
 // cache direcory path
 $cache_dir = 'cache/';
@@ -169,7 +169,7 @@ $default_charset = 'UTF-8';
 
 // default language
 // default_language default value = en_us
-$default_language = 'en_us';
+$default_language = 'vi_vn';
 
 // add the language pack name to every translation string in the display.
 // translation_string_prefix default value = false
